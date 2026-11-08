@@ -1,0 +1,22 @@
+{
+  "wheel_id": 859,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-106",
+  "project": "adelaide-kitchen-renovations-suburb-guide-c2104ed20fc10d23900b9",
+  "parent_t1_ref": "adelaidekitchenreno-153",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "adelaide kitchen renovations suburb guide",
+  "intended_url": "https://sitesau.github.io/adelaidekitchenreno-106/",
+  "tier": "T2",
+  "writeback_nonce": "281fa747552ec8c9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/adelaide-kitchen-renovations-58395536baff7f77ff1a245b96b75af4e9/",
+      "anchor": "https://aumedia.neocities.org/adelaide-kitchen-renovations-58395536baff7f77ff1a245b96b75af4e9/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
